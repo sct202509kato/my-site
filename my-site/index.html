@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,42 +13,50 @@
             box-sizing: border-box;
             font-family: 'Roboto', sans-serif;
         }
+
         body {
             background-color: #f5f5f5;
             color: #333;
             line-height: 1.6;
         }
+
         header {
             background: #4CAF50;
             color: white;
             padding: 40px 20px;
             text-align: center;
         }
+
         header h1 {
             font-size: 2.5rem;
             margin-bottom: 10px;
         }
+
         nav a {
             color: white;
             text-decoration: none;
             margin: 0 15px;
             font-weight: bold;
         }
+
         section {
             max-width: 1000px;
             margin: 40px auto;
             padding: 0 20px;
         }
+
         h2 {
             color: #4CAF50;
             margin-bottom: 20px;
             font-size: 2rem;
         }
+
         .project-card {
             background: white;
             border-radius: 10px;
             padding: 20px;
         }
+
         .github-link {
             display: inline-block;
             margin-top: 15px;
@@ -57,15 +66,18 @@
             text-decoration: none;
             border-radius: 6px;
         }
+
         .learning-list {
             margin-top: 20px;
             padding-left: 20px;
         }
+
         .contact-list {
             list-style: none;
             padding-left: 0;
             margin-top: 20px;
         }
+
         footer {
             text-align: center;
             padding: 20px;
@@ -75,79 +87,94 @@
         }
     </style>
 </head>
+
 <body>
 
-<header>
-    <h1>加藤大輔</h1>
-    <nav>
-        <a href="#about">About</a>
-        <a href="#projects">Projects</a>
-        <a href="#learning">Learning</a>
-        <a href="#contact">Contact</a>
-    </nav>
-</header>
+    <header>
+        <h1>加藤大輔</h1>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#projects">Projects</a>
+            <a href="#learning">Learning</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
 
-<section id="about">
-    <h2>About Me</h2>
-    <p>
-        Webエンジニアを目指して学習中です。<br>
-        職業訓練にて、Java・Pythonの基礎を学びました。
-    </p>
-</section>
-
-<section id="projects">
-    <h2>Projects</h2>
-    <div class="project-card">
-        <h3>勤怠管理アプリ（React / TypeScript）</h3>
+    <section id="about">
+        <h2>About Me</h2>
         <p>
-            React + TypeScript を用いて、勤怠管理アプリを個人制作しました。<br>
-            出勤・退勤・休憩管理、勤怠履歴の確認、月次レポートの Excel 出力まで一通り実装しています。<br>
-
-            状態管理や時間計算ロジック、UI の状態遷移を意識して設計し、<br>
-            本番環境（Render）にデプロイして実際に操作できる形で公開しています。<br>
-
-            実装途中では TypeScript のビルドエラーや不要ファイルの整理などにも対応し、<br>
-            最小構成に切り分けて問題を解決することで、実務に近い開発フローを経験しました。<br>
+            Webエンジニアを目指して学習中です。<br>
+            職業訓練にて、Java・Pythonの基礎を学びました。
         </p>
-        <a href="https://attendance-management-zl2n.onrender.com" target="_blank" class="公開URL">
-            公開URLを見る
-        </a>
-    </div>
-</section>
+    </section>
 
-<section id="learning">
-    <h2>Learning</h2>
-    <ul class="learning-list">
-        <li>Java / Python（職業訓練）</li>
-        <li>ITパスポート（2025年1月24日 受験予定）</li>
-        <li>AWS クラウドプラクティショナー（2025年2月14日 受験予定）</li>
-        <li>Git、Docker、Azure（Microsoft Learn にて学習を進めています）</li>
-    </ul>
-</section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project-card">
+            <h3>勤怠管理アプリ（React / TypeScript）</h3>
+            <p>
+                React + TypeScript を用いて個人制作した勤怠管理アプリです。<br>
+                出勤・退勤・休憩の打刻、勤怠履歴の確認、月次レポートの出力を実装しました。<br>
+                状態管理や時間計算ロジック、UIの状態遷移を意識して設計し、Renderにデプロイしています。
+            </p>
 
-<section id="contact">
-    <h2>Contact</h2>
-    <p>
-        本ポートフォリオをご覧いただきありがとうございます。<br>
-        ご連絡は下記よりお願いいたします。
-    </p>
-    <ul class="contact-list">
-        <li>
-            <strong>Email：</strong>
-            <a href="daisuke.kato11@gmail.com">daisuke.kato11@gmail.com</a>
-        </li>
-        <li>
-            <strong>GitHub：</strong>
-            <a href="https://github.com/sct202509kato" target="_blank">
-                https://github.com/sct202509kato
+            </p>
+            <a href="https://attendance-management-zl2n.onrender.com" target="_blank" class="公開URL">
+                公開URLを見る
             </a>
-        </li>
-    </ul>
-</section>
+        </div>
+    </section>
 
-<footer>
-    <p>&copy; 2025 加藤大輔</p>
-</footer>
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project-card">
+            <h3></h3>
+            <p>
+                作業効率向上を目的としたポモドーロタイマーに、<br>
+                作業継続のモチベーションを高めるミニゲーム要素を組み合わせたWebアプリです。<br>
+                JavaScriptによる時間管理と状態管理を意識して設計・実装しました。<br>
+            </p>
+            <a href="https://sct202509kato.github.io/pomodoro-fishing-timer/" target="_blank" class="公開URL">
+                公開URLを見る
+            </a>
+        </div>
+    </section>
+
+
+    <section id="learning">
+        <h2>Learning</h2>
+        <ul class="learning-list">
+            <li>Java / Python（職業訓練）</li>
+            <li>ITパスポート（2025年1月24日 受験予定）</li>
+            <li>AWS クラウドプラクティショナー（2025年2月14日 受験予定）</li>
+            <li>Git、Docker、Azure（Microsoft Learn にて学習を進めています）</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>
+            本ポートフォリオをご覧いただきありがとうございます。<br>
+            ご連絡は下記よりお願いいたします。
+        </p>
+        <ul class="contact-list">
+            <li>
+                <strong>Email：</strong>
+                <a href="daisuke.kato11@gmail.com">daisuke.kato11@gmail.com</a>
+            </li>
+            <li>
+                <strong>GitHub：</strong>
+                <a href="https://github.com/sct202509kato" target="_blank">
+                    https://github.com/sct202509kato
+                </a>
+            </li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 加藤大輔</p>
+    </footer>
 
 </body>
+
 </html>
