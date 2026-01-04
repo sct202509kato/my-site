@@ -16,10 +16,13 @@ Webアプリケーション開発を中心に、基礎から学習を進めて�
 ## Works
 - [勤怠管理アプリ](https://attendance-management-zl2n.onrender.com/)
 - [ポモドーロタイマー＆ミニゲーム](https://sct202509kato.github.io/pomodoro-fishing-timer/)
+- [CLI Card Battle Game](https://github.com/sct202509kato/cli-card-battle/)
+- [売上集計ツール（Python）](https://github.com/sct202509kato/salesbatch-python/)
 
 ## Technologies
 - HTML
 - CSS
+- Python（基礎 / 個人制作で使用）
 - JavaScript
 - React
 
