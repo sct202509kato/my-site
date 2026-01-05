@@ -18,6 +18,7 @@ Webアプリケーション開発を中心に、基礎から学習を進めて�
 - [ポモドーロタイマー＆ミニゲーム](https://sct202509kato.github.io/pomodoro-fishing-timer/)
 - [CLI Card Battle Game](https://github.com/sct202509kato/cli-card-battle/)
 - [売上集計ツール（Python）](https://github.com/sct202509kato/salesbatch-python/)
+- [売上集計・月次レポート作成ツール(Python)](https://github.com/sct202509kato/sales_report)
 
 ## Technologies
 - HTML
