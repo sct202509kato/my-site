@@ -1,8 +1,8 @@
 # Portfolio Site
 <img width="949" height="864" alt="スクリーンショット 2026-01-08 224258" src="https://github.com/user-attachments/assets/00457167-6545-4706-a4d4-bdec4c74d9fd" />
 
-[![CI](https://github.com/sct202509kato/my-site/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sct202509kato/my-site/actions/workflows/ci.yml)
-
+![Deploy](https://img.shields.io/badge/deploy-Render-blue)
+[Render Dashboard](https://dashboard.render.com)
 
 ## Overview
 これまでに制作した Web アプリやミニプロジェクトをまとめた
