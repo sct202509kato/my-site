@@ -1,4 +1,5 @@
 # Portfolio Site
+<img width="949" height="864" alt="スクリーンショット 2026-01-08 224258" src="https://github.com/user-attachments/assets/00457167-6545-4706-a4d4-bdec4c74d9fd" />
 
 [![CI](https://github.com/USER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/USER/REPO/actions)
 [![Deploy Status](https://api.render.com/deploy/srv-d4tsiev5r7bs73fj7nl0/status)](https://dashboard.render.com)
@@ -9,6 +10,7 @@
 
 ## Site URL
 https://my-site-e2zk.onrender.com/
+
 
 ## About
 Java・Pythonの職業訓練を受講中の求職者です。  
