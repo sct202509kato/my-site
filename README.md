@@ -1,5 +1,8 @@
 # Portfolio Site
 
+[![CI](https://github.com/USER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/USER/REPO/actions)
+[![Deploy Status](https://api.render.com/deploy/srv-d4tsiev5r7bs73fj7nl0/status)](https://dashboard.render.com)
+
 ## Overview
 これまでに制作した Web アプリやミニプロジェクトをまとめた
 ポートフォリオサイトです。
