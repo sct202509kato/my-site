@@ -1,6 +1,6 @@
 # Portfolio Site
 ![Deploy](https://img.shields.io/badge/deploy-Render-blue)
-<img width="949" height="864" alt="スクリーンショット 2026-01-08 224258" src="https://github.com/user-attachments/assets/00457167-6545-4706-a4d4-bdec4c74d9fd" />
+
 
 ## Overview
 これまでに制作した Web アプリやミニプロジェクトをまとめた
@@ -18,6 +18,7 @@ Webアプリケーション開発を中心に、基礎から学習を進めて�
 
 ## Works
 - [勤怠管理アプリ](https://attendance-management-zl2n.onrender.com/)
+- [ログイン機能付き掲示板アプリ](https://django-board.onrender.com/)
 - [ポモドーロタイマー＆ミニゲーム](https://sct202509kato.github.io/pomodoro-fishing-timer/)
 - [CLI Card Battle Game](https://github.com/sct202509kato/cli-card-battle/)
 - [売上集計ツール（Python）](https://github.com/sct202509kato/salesbatch-python/)
