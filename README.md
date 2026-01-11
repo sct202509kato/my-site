@@ -48,3 +48,8 @@ ChatGPT などの AI ツールの支援を受けています。
 提案されたコードや設計については、  
 内容を理解・検証したうえで取捨選択し、  
 最終的な実装・修正・動作確認はすべて自身で行っています。
+
+## Design Iteration:
+- v1: Simple HTML/CSS
+- v2: Figma-based redesign
+- v3: Interview-optimized version (current)
