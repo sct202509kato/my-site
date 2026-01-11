@@ -1,5 +1,6 @@
 # Portfolio Site
 ![Deploy](https://img.shields.io/badge/deploy-Render-blue)
+<img width="925" height="485" alt="スクリーンショット 2026-01-11 121448" src="https://github.com/user-attachments/assets/c9989225-d914-4813-8dac-656275ec9fc0" />
 
 
 ## Overview
