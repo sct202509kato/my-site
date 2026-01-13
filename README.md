@@ -1,23 +1,21 @@
-# Portfolio Site
+# ポートフォリオ用webサイト
 ![Deploy](https://img.shields.io/badge/deploy-Render-blue)
 <img width="925" height="485" alt="スクリーンショット 2026-01-11 121448" src="https://github.com/user-attachments/assets/c9989225-d914-4813-8dac-656275ec9fc0" />
 
-
-## Overview
+## 概要
 これまでに制作した Web アプリやミニプロジェクトをまとめた
 ポートフォリオサイトです。
 
-## Site URL
+## URL
 https://my-site-e2zk.onrender.com/
 
-
-## About
+## わたしについて
 Java・Pythonの職業訓練を受講中の求職者です。  
 Webアプリケーション開発を中心に、基礎から学習を進めています。  
 エラーの原因を調べながら、一つずつ理解して実装することを
 大切にしています。
 
-## Works
+## 制作物
 - [勤怠管理アプリ](https://attendance-management-zl2n.onrender.com/)
 - [ログイン機能付き掲示板アプリ](https://django-board.onrender.com/)
 - [ポモドーロタイマー＆ミニゲーム](https://sct202509kato.github.io/pomodoro-fishing-timer/)
@@ -25,14 +23,14 @@ Webアプリケーション開発を中心に、基礎から学習を進めて�
 - [売上集計ツール（Python）](https://github.com/sct202509kato/salesbatch-python/)
 - [売上集計・月次レポート作成ツール(Python)](https://github.com/sct202509kato/sales_report)
 
-## Technologies
+## 技術
 - HTML
 - CSS
 - Python（基礎 / 個人制作で使用）
 - JavaScript
 - React
 
-## Purpose
+## 目的
 学習の成果を整理し、  
 自分がどのような技術・考え方で開発しているかを
 分かりやすく伝えることを目的に制作しています。
