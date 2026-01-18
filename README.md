@@ -16,9 +16,10 @@ Webアプリケーション開発を中心に、基礎から学習を進めて�
 大切にしています。
 
 ## 制作物
-- [勤怠管理アプリ](https://attendance-management-zl2n.onrender.com/)
 - [Todoアプリ](https://sct202509kato.github.io/react-todo/)
 - [ログイン機能付き掲示板アプリ](https://django-board.onrender.com/)
+- [家計簿アプリ](https://kakeibo-app-ubx5.onrender.com/)
+- [勤怠管理アプリ](https://attendance-management-zl2n.onrender.com/)
 - [ポモドーロタイマー＆ミニゲーム](https://sct202509kato.github.io/pomodoro-fishing-timer/)
 - [CLI Card Battle Game](https://github.com/sct202509kato/cli-card-battle/)
 - [売上集計ツール（Python）](https://github.com/sct202509kato/salesbatch-python/)
@@ -52,5 +53,5 @@ ChatGPT などの AI ツールの支援を受けています。
 
 ## デザインの変更履歴
 - v1: Simple HTML/CSS
-- v2: Figma-based redesign
-- v3: Interview-optimized version (current)
+- v2: Figma MCPサーバーを使用しデザインの変更
+- v3: 現在の状態
