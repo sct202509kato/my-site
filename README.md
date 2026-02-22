@@ -16,7 +16,8 @@ Webアプリケーション開発を中心に、基礎から学習を進めて�
 大切にしています。
 
 ## 制作物
-- [Todoアプリ](https://sct202509kato.github.io/react-todo/)
+- [ToDoアプリ](https://sct202509kato.github.io/react-todo/)
+- [SQL PRACTICE](https://github.com/sct202509kato/sqlpractice)
 - [ログイン機能付き掲示板アプリ](https://django-board.onrender.com/)
 - [家計簿アプリ](https://kakeibo-app-ubx5.onrender.com/)
 - [勤怠管理アプリ](https://attendance-management-zl2n.onrender.com/)
@@ -30,14 +31,13 @@ Webアプリケーション開発を中心に、基礎から学習を進めて�
 - CSS
 - Python（基礎 / 個人制作で使用）
 - JavaScript
+- SQL
 - React
 
 ## AIチャットボット（Botpress）の実装
-・ポートフォリオ閲覧者が、スキル・経歴・制作物について質問できる仕組みを実装
-
-・想定質問を設計し、回答内容をチューニング
-
-・Webサイトに埋め込み表示
+- ポートフォリオ閲覧者が、スキル・経歴・制作物について質問できる仕組みを実装
+- 想定質問を設計し、回答内容をチューニング
+- Webサイトに埋め込み表示
 
 ## 目的
 学習の成果を整理し、  
